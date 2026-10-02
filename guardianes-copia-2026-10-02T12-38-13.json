@@ -1,0 +1,127 @@
+{
+  "app": "guardianes-del-corazon",
+  "version": 1,
+  "exportedAt": "2026-10-02T12:38:13.811Z",
+  "custom": {
+    "0": {
+      "title": "Palacio del Espejo",
+      "text": "Soberbia → Humildad",
+      "description": "La soberbia nos lleva a creernos superiores y rechazar correcciones. La humildad permite reconocer el propio valor y aprender de otros.",
+      "image": "",
+      "steps": [
+        "Escuchar la corrección",
+        "Reconocer el error",
+        "Reparar y aprender"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "1": {
+      "title": "Minas del Oro Eterno",
+      "text": "Avaricia → Generosidad",
+      "description": "La avaricia es el apego excesivo a las posesiones. La generosidad ayuda a compartir responsablemente, sin comprar el afecto de nadie.",
+      "image": "",
+      "steps": [
+        "Reconocer una necesidad",
+        "Ver qué puedo compartir",
+        "Ofrecer ayuda con respeto"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "2": {
+      "title": "Jardín de las Apariencias",
+      "text": "Lujuria → Castidad y respeto",
+      "description": "La lujuria separa el deseo del respeto a la dignidad de la persona. La castidad integra los afectos con el respeto, el dominio de sí y el cuidado de los límites personales.",
+      "image": "",
+      "steps": [
+        "Reconocer la dignidad de la persona",
+        "Respetar sus límites",
+        "Actuar sin presionar ni difundir imágenes"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "3": {
+      "title": "Volcán de la Furia",
+      "text": "Ira → Paciencia",
+      "description": "Sentir enojo no es lo mismo que actuar con ira. La paciencia y la mansedumbre permiten responder con firmeza sin insultos, violencia ni venganza.",
+      "image": "",
+      "steps": [
+        "Hacer una pausa",
+        "Expresar la molestia sin agredir",
+        "Buscar una solución justa"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "4": {
+      "title": "Valle de los Excesos",
+      "text": "Gula → Templanza",
+      "description": "La gula se refiere al exceso al comer o beber. Aquí también practicamos la templanza ante otros excesos, como el uso del celular, para cuidar el descanso y la libertad de elegir.",
+      "image": "",
+      "steps": [
+        "Reconocer el exceso",
+        "Elegir un límite realista",
+        "Respetar el límite y descansar"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "5": {
+      "title": "Pantano de las Comparaciones",
+      "text": "Envidia → Caridad y gratitud",
+      "description": "La envidia se entristece por el bien ajeno. La caridad nos invita a alegrarnos por otros; la gratitud ayuda a reconocer nuestros propios dones.",
+      "image": "",
+      "steps": [
+        "Reconocer la comparación",
+        "Agradecer mis propios dones",
+        "Celebrar el bien del otro"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    },
+    "6": {
+      "title": "Torre de la Indiferencia",
+      "text": "Pereza → Diligencia",
+      "description": "La pereza evita de forma habitual el esfuerzo y los compromisos. La diligencia da pasos concretos. Descansar, enfermar o necesitar ayuda no equivale a pereza.",
+      "image": "",
+      "steps": [
+        "Elegir una tarea concreta",
+        "Dividirla en un primer paso posible",
+        "Empezar y revisar el avance"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2
+      ],
+      "orderEdited": false
+    }
+  },
+  "progress": null
+}
